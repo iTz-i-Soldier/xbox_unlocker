@@ -1,5 +1,5 @@
 
-# XboxL Unlocker
+# Xbox Unlocker
 
 **Xbox Unlocker** is a tool designed to unlock Xbox achievements, even for games you do not own. This tool works exclusively for Xbox One and later versions and is not compatible with Xbox 360.
 
@@ -28,7 +28,7 @@
 
 # Requirements
 
-To properly use **XboxL Unlocker**, you need the following:
+To properly use **Xbox Unlocker**, you need the following:
 
 1. **Python 3.x** (if using Python scripts).
 2. **Firefox browser installed**
@@ -42,7 +42,7 @@ To properly use **XboxL Unlocker**, you need the following:
   Allows the user to unlock one or more selected achievements manually. The user must choose which achievements to unlock.
 
 - **`.exe`:**  
-  Windows executables are provided, created using One-File, which allow you to run the tool without needing Python installed. Simply run the `.exe` file to begin the unlocking process.
+  Windows executables are provided, created using PyInstaller, which allow you to run the tool without needing Python installed. Simply run the `.exe` file to begin the unlocking process.
 
 ---
 
@@ -51,7 +51,7 @@ To properly use **XboxL Unlocker**, you need the following:
    - Download the repository as a ZIP file and extract it.  
    - Alternatively, use the following command to clone the repository:  
      ```bash
-     git clone <repository-url>
+     git clone https://github.com/iTz-i-Soldier/xbox_unlocker.git
      ```  
 
 2. **Install Dependencies:**  
